@@ -1,0 +1,6 @@
+{
+  "name": "KABZA — The Great Property War",
+  "description": "Baap ki property hai Badshah, par kabza karke dikha! A 2D multiplayer territory-capture arcade game set in an ancestral Indian family property dispute.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
